@@ -1,6 +1,6 @@
 #  Bank Customer Churn Prediction
 
-Predict which bank customers are likely to churn so the team can prioritize retention outreach.
+Predicting which bank customers are likely to churn so the team can prioritize retention outreach.
 
 - **Tech:** Python, pandas, scikit-learn, XGBoost, matplotlib
 ---
