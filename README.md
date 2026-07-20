@@ -37,7 +37,7 @@ Predicting which bank customers are likely to churn so the team can prioritize r
 - **F1:** 0.621  
 - **ROC-AUC:** 0.859 
 
-> **Why this threshold?** Lowering the cutoff from 0.50 to 0.269 increases **recall** (we catch more real churners) at the cost of **precision** (more false alarms) — a sensible trade-off for retention campaigns.
+> **Why this threshold?** Lowering the cutoff from 0.50 to 0.269 increases **recall** (we catch more real churners) at the cost of **precision** (more false alarms), a sensible trade-off for retention campaigns.
 
 ---
 
