@@ -28,7 +28,6 @@ Predicting which bank customers are likely to churn so the team can prioritize r
 ---
 
 ##  Results (Test Set)
-Replace with your numbers:
 
 - **Model:** XGBoost  
 - **Threshold:** 0.269  
